@@ -1,0 +1,5 @@
+CUSTOM PEAR & ZendFramework lib for use in stand alone without server lib
+
+usage : 
+
+ini_set('include_path','path_to_where_you_store_externals');
